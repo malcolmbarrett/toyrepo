@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Changing this
 
 I'm going to add something here.
 
@@ -23,7 +23,7 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-## Including Plots
+## And this
 
 Not to mention down here.
 
